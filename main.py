@@ -16,7 +16,7 @@ import example_bot
 def main_file():
     example_bot_v = example_bot.ExampleBot(accounts=config.XVans75.accounts, pm=config.XVans75.pm_connect)
     try:
-        text_i = config.Database.take_lang_bot(config.Bot.bot_lang, "start")
+        text_i = config.Database.take_lang_bot(config.XVans75.bot_lang, "start")
         text_f = text_i.format(config.Files.delete_pycache())
         print(text_f)
 
