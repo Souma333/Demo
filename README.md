@@ -1,5 +1,5 @@
-# Chatango Bot By Milton797
-_**Based on RoryMercury797.**_ - _**ONLY WORKS IN PYTHON 3**_ - _**Using Megach.py**_
+# Chatango Bot By Souma33
+_**Based on XVans75.**_ - _**ONLY WORKS IN PYTHON 3**_ - _**Using Megach.py**_
 
 ## Bot Supports:
 - All supports from megach.
