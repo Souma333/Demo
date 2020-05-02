@@ -1,0 +1,36 @@
+<html>
+<head>
+<link href="https://pbs.twimg.com/profile_images/980645455716651009/F90x3maJ_400x400.jpg" rel='icon' type='image/x-icon'/>
+<script language=javascript>document.title=(" Hachim4n ")</script>
+<style>
+
+body {
+   background-color:#000000;
+   font-family: courier new;
+   font-size: 7px;
+   color: #333333;
+}
+
+   a:visited {color:#333333;}  
+   a:link {color:#CCCCCC;}     
+   a:active {color:#FFFFFF;} 
+   a:hover {color:#450300;} 
+   ::-moz-selection {
+   background:#00AEA2;
+   background-image: url("#");
+}
+
+#bg {
+    height: 100%;
+    left: 0;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+</style>
+<body>
+<!--- BACKGROUND --->
+   <div id="bg">
+   <iframe width="100%" height="100%" alt="" src="https://hachim4n.blogspot.com" style="">
+   </div>
